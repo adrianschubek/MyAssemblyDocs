@@ -1,0 +1,30 @@
+{
+  "input": ".",
+  "output": ".retype",
+  "branding": {
+    "title": "MyAssembly",
+    "label": "0.1"
+  },
+  "links": [
+    {
+      "text": "adriansoftware.de",
+      "link": "https://adriansoftware.de",
+      "icon": "home"
+    }, {
+      "text": "GitHub",
+      "link": "https://github.com/adrianschubek/myassembly",
+      "icon": "bug"
+    }
+  ],
+  "footer": {
+    "copyright": "&copy; Copyright Adrian Schubek {{ year }}. All rights reserved."
+  },
+  "edit": {
+    "repo": "https://github.com/adrianschubek/myassembly",
+    "base": "docs",
+    "label": "Edit this page"
+  },
+  "search": {
+    "minChars": 1
+  }
+}
