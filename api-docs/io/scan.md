@@ -4,9 +4,6 @@ label: scan
 ---
 # scan
 Scans an input.
-!!!info
-Make sure to [include](/api-docs/include) the `` io.lib`` library first.
-!!!
 !!!primary Blocking function
 Calling this function will halt the execution.
 !!!

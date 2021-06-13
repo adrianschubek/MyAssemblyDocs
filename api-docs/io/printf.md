@@ -4,9 +4,6 @@ label: printf
 ---
 # printf
 Fromats and prints a string.
-!!!info
-Make sure to [include](/api-docs/include) the `` io.lib`` library first. 
-!!!
 ### Syntax
 ```
 bl printf

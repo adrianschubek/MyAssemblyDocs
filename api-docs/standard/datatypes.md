@@ -1,6 +1,7 @@
 ---
-tags: [api, types]
+tags: [api, std.lib]
 label: Datatypes
+order: 9999
 ---
 # Datatypes
 A list of all available datatypes
@@ -41,10 +42,10 @@ When referencing a branch leave out the ``:``
 A register is holding a value. There are by default 16 registers ``r0`` to ``r15``.
 - ``r0`` to ``r12`` user registers
 - ``r13`` Link Register (LR)
-- ``r14`` Comparison (CP)
+- ``r14`` Comparison (CMP)
 - ``r15`` Program Counter (PC)
 !!!danger
-The registers ``r13``, ``r14`` and ``r15`` are reserved for internal uses and should not be written to.
+The registers ``r14`` and ``r15`` are reserved for internal uses and should not be written to.
 !!!
 ---
 ### Datavar
